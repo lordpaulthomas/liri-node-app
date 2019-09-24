@@ -16,9 +16,42 @@ console.log(command)
       .search({ type: 'track', query: search })
       .then(function (response) {
         console.log(response.tracks.items[0].artists[0].name);
+        fs.appendFile("log.txt", '\n'+response.tracks.items[0].artists[0].name, function(err){
+          if(err){
+            return console.log(err)
+          }
+          else {
+            console.log("Content Added")
+          }
+        })
         console.log(response.tracks.items[0].name);
+        fs.appendFile("log.txt", '\n'+response.tracks.items[0].name, function(err){
+          if(err){
+            return console.log(err)
+          }
+          else {
+            console.log("Content Added")
+          }
+        })
         console.log(response.tracks.items[0].album.name);
+        fs.appendFile("log.txt", '\n'+response.tracks.items[0].album.name, function(err){
+          if(err){
+            return console.log(err)
+          }
+          else {
+            console.log("Content Added")
+          }
+        })
         console.log(response.tracks.items[0].href);
+        fs.appendFile("log.txt", '\n'+response.tracks.items[0].href, function(err){
+          if(err){
+            return console.log(err)
+          }
+          else {
+            console.log("Content Added")
+          }
+        })
+
       })
       .catch(function (err) {
         console.log(err);
@@ -35,8 +68,32 @@ console.log(command)
     axios.get(queryUrl).then(function(response){
       for( let i = 0; i < response.data.length;i++){
       console.log(response.data[i].venue.name)
+      fs.appendFile("log.txt", '\n'+response.data[i].venue.name, function(err){
+        if(err){
+          return console.log(err)
+        }
+        else {
+          console.log("Content Added")
+        }
+      })
       console.log(response.data[i].venue.city + ',' + response.data[i].venue.region)
+      fs.appendFile("log.txt", '\n'+response.data[i].venue.city, function(err){
+        if(err){
+          return console.log(err)
+        }
+        else {
+          console.log("Content Added")
+        }
+      })
       console.log(moment(response.data[i].datetime).format("MM/DD/YYYY"))
+      fs.appendFile("log.txt", response.data[i].datetime, function(err){
+        if(err){
+          return console.log(err)
+        }
+        else {
+          console.log("Content Added")
+        }
+      })
       }
     }).catch(function(error) {
       if (error.response) {
@@ -78,13 +135,77 @@ console.log(command)
   function(response) {
     // Then we print out the imdbRating
     console.log(response.data.Title)
+    fs.appendFile("log.txt", '\n' + response.data.Title, function(err){
+      if(err){
+        return console.log(err)
+      }
+      else {
+        console.log("Content Added")
+      }
+    })
     console.log("Released in " + response.data.Year)
+    fs.appendFile("log.txt", "\nReleased in " + response.data.Year, function(err){
+      if(err){
+        return console.log(err)
+      }
+      else {
+        console.log("Content Added")
+      }
+    })
     console.log("The IMDB rating is: " + response.data.imdbRating);
+    fs.appendFile("log.txt", "\nThe IMDB rating is: " + response.data.imdbRating, function(err){
+      if(err){
+        return console.log(err)
+      }
+      else {
+        console.log("Content Added")
+      }
+    })
     console.log("The Rotten Tomatos rating is " + response.data.Ratings[1].Value)
+    fs.appendFile("log.txt", "\nThe Rotten Tomatos rating is " + response.data.Ratings[1].Value, function(err){
+      if(err){
+        return console.log(err)
+      }
+      else {
+        console.log("Content Added")
+      }
+    })
     console.log("Produced in " + response.data.Country)
+    fs.appendFile("log.txt", "\nProduced in " + response.data.Country, function(err){
+      if(err){
+        return console.log(err)
+      }
+      else {
+        console.log("Content Added")
+      }
+    })
     console.log(response.data.Language)
+    fs.appendFile("log.txt", '\n'+response.data.Language, function(err){
+      if(err){
+        return console.log(err)
+      }
+      else {
+        console.log("Content Added")
+      }
+    })
     console.log(response.data.Plot)
+    fs.appendFile("log.txt", '\n'+response.data.Plot, function(err){
+      if(err){
+        return console.log(err)
+      }
+      else {
+        console.log("Content Added")
+      }
+    })
     console.log("Starring " + response.data.Actors);
+    fs.appendFile("log.txt", "\nStarring " + response.data.Actors, function(err){
+      if(err){
+        return console.log(err)
+      }
+      else {
+        console.log("Content Added")
+      }
+    })
   }
     )
   }

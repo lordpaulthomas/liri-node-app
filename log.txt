@@ -1,0 +1,103 @@
+
+Gone with the Wind
+The Rotten Tomatos rating is 92%
+The IMDB rating is: 8.1
+English
+Starring Thomas Mitchell, Barbara O'Neil, Vivien Leigh, Evelyn Keyes
+A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.
+Released in 1939
+Produced in USA
+Louder Than Life
+Louisville2019-09-29T14:00:00
+Roxian Theatre2019-10-01T19:00:00
+Mckees Rocks
+The Fillmore Detroit2019-10-02T19:00:00
+Detroit
+Menace in Minneapolis
+Minneapolis2019-10-05T17:00:00
+The Riviera Theatre
+Chicago2019-10-06T18:30:00
+Ogden Theatre
+Denver2019-10-08T19:00:00
+The Complex
+Salt Lake City2019-10-09T19:00:00
+Aftershock Festival
+Sacramento2019-10-11T14:00:00
+Senator Theatre
+Chico2019-10-12T19:00:00
+Showbox SoDo
+Seattle2019-10-13T19:00:00
+House of Blues Las Vegas
+Las Vegas2019-10-16T19:00:00
+Hollywood Palladium
+Los Angeles2019-10-17T19:00:00
+SOMA
+San Diego2019-10-18T19:00:00
+Marquee Theatre
+Tempe2019-10-20T19:00:00
+Gas Monkey Live!
+Dallas2019-10-22T19:00:00
+Revention Music Center
+Houston2019-10-23T19:00:00
+Soundstage at Graceland
+Memphis2019-10-24T19:00:00
+The Ritz
+Raleigh2019-10-26T19:00:00
+The Fillmore Silver Spring
+Silver Spring2019-10-27T19:00:00
+Hammerstein Ballroom
+New York2019-10-28T19:00:00
+The Fillmore Philadelphia
+Philadelphia2019-10-29T19:00:00
+Palladium
+Worcester2019-10-31T19:00:00
+The 27th Annual Halloween Howler
+Edmonton2019-11-02T19:00:11
+Scotiabank Centre
+Halifax2019-11-12T19:00:00
+Avenir Centre
+Moncton2019-11-13T19:00:00
+Meridian Centre
+St Catharines2019-11-15T19:00:00
+Sudbury Arena
+Sudbury2019-11-16T19:00:00
+Place Bell
+Laval2019-11-17T19:00:00
+GFL Memorial Gardens
+Sault Ste. Marie2019-11-19T19:00:00
+Bell MTS Place
+Winnipeg2019-11-21T19:00:00
+Mosaic Place
+Moose Jaw2019-11-22T19:00:00
+Affinity Place
+Estevan2019-11-23T19:00:00
+Canalta Centre
+Medicine Hat2019-11-25T19:00:00
+The Palace Theatre
+Calgary2019-11-26T20:00:00
+Western Financial Place
+Cranbrook2019-11-27T19:00:00
+South Okanagan Events Centre
+Penticton2019-11-29T19:00:00
+Abbotsford Centre
+Abbotsford2019-11-30T19:00:00
+Sandman Centre2019-10-04T19:00:002019-12-02T19:00:00
+Bogarts
+Cincinnati2019-12-14T19:00:00
+The Apollo Theatre Ac
+Belvidere2019-12-15T19:00:00
+The Cowan
+Nashville2019-12-17T19:00:00
+House of Blues Orlando
+Orlando2019-12-18T19:00:00
+Clyde Theatre
+Fort Wayne2019-12-20T19:00:00
+20 Monroe Live
+Grand Rapids2019-12-21T19:00:00
+Kansas City
+Kamloops
+Arvest Bank Theatre at the Midland
+Michael Jackson
+Beat It - Single Version
+https://api.spotify.com/v1/tracks/1OOtq8tRnDM8kG2gqUPjAj
+Thriller 25 Super Deluxe Edition
