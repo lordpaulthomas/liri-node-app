@@ -5,13 +5,28 @@ var Spotify = require('node-spotify-api')
 var fs = require("fs");
 var axios = require("axios")
 var moment = require("moment")
-
-
-command = process.argv[2]
-
+var inquirer = require("inquirer")
+inquirer
+.prompt([
+  {
+    type: "list",
+    message: "Which Type of Search Would You Like?",
+    choices: ["spotify-this-song", "concert-this", "movie-this","do-what-it-says"],
+    name: "command"
+  },
+  {
+    type: "input",
+    message: "What would you like to search",
+    name: 'search'
+  }
+])
+.then(function(response){
+  var command = response.command;
+  var search = response.search;
+  console.log(command, search)
 
   if (command === 'spotify-this-song') {
-    search = process.argv.slice(3).join(" ")
+   console.log(search)
     fs.appendFile("log.txt", "\n\n" + command + '----' + search, function(err){
       if(err){
         return console.log(err)
@@ -54,7 +69,7 @@ command = process.argv[2]
   }
 
   if (command === 'concert-this'){
-    search = process.argv.slice(3).join("")
+   
     fs.appendFile("log.txt", "\n\n" + command + '----' + search, function(err){
       if(err){
         return console.log(err)
@@ -106,7 +121,6 @@ command = process.argv[2]
   }
 
   if (command === 'movie-this'){
-    search = process.argv.slice(3).join(" ")
     fs.appendFile("log.txt", "\n\n" + command + '----' + search, function(err){
       if(err){
         return console.log(err)
@@ -268,3 +282,4 @@ if(command === 'do-what-it-says'){
     }
   })
 }
+})
