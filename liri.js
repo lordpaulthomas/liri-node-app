@@ -1,3 +1,4 @@
+// Node Modules being used in this app
 require("dotenv").config();
 var keys = require("./keys.js");
 var Spotify = require('node-spotify-api')
@@ -5,12 +6,17 @@ var fs = require("fs");
 var axios = require("axios")
 var moment = require("moment")
 
+
 command = process.argv[2]
 
-console.log(command) 
 
   if (command === 'spotify-this-song') {
     search = process.argv.slice(3).join(" ")
+    fs.appendFile("log.txt", "\n\n" + command + '----' + search, function(err){
+      if(err){
+        return console.log(err)
+      }
+    })
     var spotify = new Spotify(keys.spotify)
     spotify
       .search({ type: 'track', query: search })
@@ -20,17 +26,11 @@ console.log(command)
           if(err){
             return console.log(err)
           }
-          else {
-            console.log("Content Added")
-          }
         })
         console.log(response.tracks.items[0].name);
         fs.appendFile("log.txt", '\n'+response.tracks.items[0].name, function(err){
           if(err){
             return console.log(err)
-          }
-          else {
-            console.log("Content Added")
           }
         })
         console.log(response.tracks.items[0].album.name);
@@ -38,17 +38,11 @@ console.log(command)
           if(err){
             return console.log(err)
           }
-          else {
-            console.log("Content Added")
-          }
         })
         console.log(response.tracks.items[0].href);
         fs.appendFile("log.txt", '\n'+response.tracks.items[0].href, function(err){
           if(err){
             return console.log(err)
-          }
-          else {
-            console.log("Content Added")
           }
         })
 
@@ -60,9 +54,12 @@ console.log(command)
   }
 
   if (command === 'concert-this'){
-
-   
     search = process.argv.slice(3).join("")
+    fs.appendFile("log.txt", "\n\n" + command + '----' + search, function(err){
+      if(err){
+        return console.log(err)
+      }
+    })
     queryUrl = 'https://rest.bandsintown.com/artists/' + search + '/events?app_id=codingbootcamp'
     console.log(queryUrl)
     axios.get(queryUrl).then(function(response){
@@ -72,26 +69,17 @@ console.log(command)
         if(err){
           return console.log(err)
         }
-        else {
-          console.log("Content Added")
-        }
       })
       console.log(response.data[i].venue.city + ',' + response.data[i].venue.region)
       fs.appendFile("log.txt", '\n'+response.data[i].venue.city, function(err){
         if(err){
           return console.log(err)
         }
-        else {
-          console.log("Content Added")
-        }
       })
       console.log(moment(response.data[i].datetime).format("MM/DD/YYYY"))
-      fs.appendFile("log.txt", response.data[i].datetime, function(err){
+      fs.appendFile("log.txt", "\n" + moment(response.data[i].datetime).format("MM/DD/YYYY"), function(err){
         if(err){
           return console.log(err)
-        }
-        else {
-          console.log("Content Added")
         }
       })
       }
@@ -119,6 +107,11 @@ console.log(command)
 
   if (command === 'movie-this'){
     search = process.argv.slice(3).join(" ")
+    fs.appendFile("log.txt", "\n\n" + command + '----' + search, function(err){
+      if(err){
+        return console.log(err)
+      }
+    })
     total = 0
     for (let i = 0; i < search.length; i ++){
       if (search[i] === ' '){
@@ -127,11 +120,9 @@ console.log(command)
     }
     for (let i = 0; i < total; i++){
     search = search.replace(' ', "+")
-  }
-    console.log(search)
+  }  
 
-    
-    axios.get("http://www.omdbapi.com/?t=" +search + "&y=&plot=short&apikey=trilogy").then(
+    axios.get("http://www.omdbapi.com/?t=" + search + "&y=&plot=short&apikey=trilogy").then(
   function(response) {
     // Then we print out the imdbRating
     console.log(response.data.Title)
@@ -139,17 +130,11 @@ console.log(command)
       if(err){
         return console.log(err)
       }
-      else {
-        console.log("Content Added")
-      }
     })
     console.log("Released in " + response.data.Year)
     fs.appendFile("log.txt", "\nReleased in " + response.data.Year, function(err){
       if(err){
         return console.log(err)
-      }
-      else {
-        console.log("Content Added")
       }
     })
     console.log("The IMDB rating is: " + response.data.imdbRating);
@@ -157,17 +142,11 @@ console.log(command)
       if(err){
         return console.log(err)
       }
-      else {
-        console.log("Content Added")
-      }
     })
     console.log("The Rotten Tomatos rating is " + response.data.Ratings[1].Value)
     fs.appendFile("log.txt", "\nThe Rotten Tomatos rating is " + response.data.Ratings[1].Value, function(err){
       if(err){
         return console.log(err)
-      }
-      else {
-        console.log("Content Added")
       }
     })
     console.log("Produced in " + response.data.Country)
@@ -175,17 +154,11 @@ console.log(command)
       if(err){
         return console.log(err)
       }
-      else {
-        console.log("Content Added")
-      }
     })
     console.log(response.data.Language)
     fs.appendFile("log.txt", '\n'+response.data.Language, function(err){
       if(err){
         return console.log(err)
-      }
-      else {
-        console.log("Content Added")
       }
     })
     console.log(response.data.Plot)
@@ -193,17 +166,11 @@ console.log(command)
       if(err){
         return console.log(err)
       }
-      else {
-        console.log("Content Added")
-      }
     })
     console.log("Starring " + response.data.Actors);
     fs.appendFile("log.txt", "\nStarring " + response.data.Actors, function(err){
       if(err){
         return console.log(err)
-      }
-      else {
-        console.log("Content Added")
       }
     })
   }
@@ -220,10 +187,10 @@ if(command === 'do-what-it-says'){
       return console.log(err)
     }
     var dataArray = data.split(',');
-    for (let i = 0; i < dataArray.length; i++) {
+ 
       newCommand = dataArray[0]
       newSearch = dataArray[1]
-    }
+  
   
     if (newCommand === 'spotify-this-song') {
       var spotify = new Spotify(keys.spotify)

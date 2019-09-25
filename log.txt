@@ -1,103 +1,126 @@
 
+
+concert-this----moonhooch
+Chameleon Club
+Lancaster
+10/12/2019
+Bell's Brewery
+Kalamazoo
+10/16/2019
+Blind Pig
+Ann Arbor
+10/17/2019
+The Intersection
+Grand Rapids
+10/18/2019
+Chop Shop
+Chicago
+10/19/2019
+High Noon Saloon
+Madison
+10/22/2019
+Redstone Room
+Davenport
+10/23/2019
+Slowdown
+Omaha
+10/24/2019
+Vaudeville Mews
+Des Moines
+10/25/2019
+Turf Club
+Saint Paul
+10/26/2019
+The Aquarium
+Fargo
+10/27/2019
+Public House
+Crested Butte
+10/31/2019
+Hodi's Half Note
+Fort Collins
+11/01/2019
+Fillmore Auditorium
+Denver
+11/02/2019
+Woodlands Tavern
+Columbus
+11/21/2019
+Beachland Ballroom & Tavern
+Cleveland
+11/22/2019
+Mr. Smalls Theatre
+Pittsburgh
+11/23/2019
+8x10
+Baltimore
+11/24/2019
+Casbah
+San Diego
+12/04/2019
+The Moroccan Lounge
+Los Angeles
+12/05/2019
+SLO Brew
+San Luis Obispo
+12/06/2019
+Felton Music Hall
+Felton
+12/07/2019
+Cornerstone Craft Beer & Live Music
+Berkeley
+12/08/2019
+Volcanic Theatre Pub
+Philadelphia
+12/11/2019
+Nectar Lounge
+Seattle
+12/12/2019
+Nectar Lounge
+Seattle
+12/13/2019
+Doug Fir Lounge
+Portland
+12/14/2019
+Doug Fir Lounge
+Portland
+12/15/2019
+Hawks and Reed Performing Arts Center
+Greenfield
+12/27/2019
+The Sinclair
+Cambridge
+12/28/2019
+Port City Music Hall
+Bend
+12/31/2019
+Citybeard (presented by Beardfest)
+Portland
+10/11/2019
+
+spotify-this-song----lifestyles of the rich and famous
+Good Charlotte
+https://api.spotify.com/v1/tracks/2g2a5kDeZexbUTD8abcvm6
+The Young and The Hopeless
+Lifestyles of the Rich & Famous
+
+movie-this----gone With the wind
 Gone with the Wind
-The Rotten Tomatos rating is 92%
-The IMDB rating is: 8.1
-English
-Starring Thomas Mitchell, Barbara O'Neil, Vivien Leigh, Evelyn Keyes
-A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.
-Released in 1939
 Produced in USA
-Louder Than Life
-Louisville2019-09-29T14:00:00
-Roxian Theatre2019-10-01T19:00:00
-Mckees Rocks
-The Fillmore Detroit2019-10-02T19:00:00
-Detroit
-Menace in Minneapolis
-Minneapolis2019-10-05T17:00:00
-The Riviera Theatre
-Chicago2019-10-06T18:30:00
-Ogden Theatre
-Denver2019-10-08T19:00:00
-The Complex
-Salt Lake City2019-10-09T19:00:00
-Aftershock Festival
-Sacramento2019-10-11T14:00:00
-Senator Theatre
-Chico2019-10-12T19:00:00
-Showbox SoDo
-Seattle2019-10-13T19:00:00
-House of Blues Las Vegas
-Las Vegas2019-10-16T19:00:00
-Hollywood Palladium
-Los Angeles2019-10-17T19:00:00
-SOMA
-San Diego2019-10-18T19:00:00
-Marquee Theatre
-Tempe2019-10-20T19:00:00
-Gas Monkey Live!
-Dallas2019-10-22T19:00:00
-Revention Music Center
-Houston2019-10-23T19:00:00
-Soundstage at Graceland
-Memphis2019-10-24T19:00:00
-The Ritz
-Raleigh2019-10-26T19:00:00
-The Fillmore Silver Spring
-Silver Spring2019-10-27T19:00:00
-Hammerstein Ballroom
-New York2019-10-28T19:00:00
-The Fillmore Philadelphia
-Philadelphia2019-10-29T19:00:00
-Palladium
-Worcester2019-10-31T19:00:00
-The 27th Annual Halloween Howler
-Edmonton2019-11-02T19:00:11
-Scotiabank Centre
-Halifax2019-11-12T19:00:00
-Avenir Centre
-Moncton2019-11-13T19:00:00
-Meridian Centre
-St Catharines2019-11-15T19:00:00
-Sudbury Arena
-Sudbury2019-11-16T19:00:00
-Place Bell
-Laval2019-11-17T19:00:00
-GFL Memorial Gardens
-Sault Ste. Marie2019-11-19T19:00:00
-Bell MTS Place
-Winnipeg2019-11-21T19:00:00
-Mosaic Place
-Moose Jaw2019-11-22T19:00:00
-Affinity Place
-Estevan2019-11-23T19:00:00
-Canalta Centre
-Medicine Hat2019-11-25T19:00:00
-The Palace Theatre
-Calgary2019-11-26T20:00:00
-Western Financial Place
-Cranbrook2019-11-27T19:00:00
-South Okanagan Events Centre
-Penticton2019-11-29T19:00:00
-Abbotsford Centre
-Abbotsford2019-11-30T19:00:00
-Sandman Centre2019-10-04T19:00:002019-12-02T19:00:00
-Bogarts
-Cincinnati2019-12-14T19:00:00
-The Apollo Theatre Ac
-Belvidere2019-12-15T19:00:00
-The Cowan
-Nashville2019-12-17T19:00:00
-House of Blues Orlando
-Orlando2019-12-18T19:00:00
-Clyde Theatre
-Fort Wayne2019-12-20T19:00:00
-20 Monroe Live
-Grand Rapids2019-12-21T19:00:00
-Kansas City
-Kamloops
-Arvest Bank Theatre at the Midland
-Michael Jackson
-Beat It - Single Version
-https://api.spotify.com/v1/tracks/1OOtq8tRnDM8kG2gqUPjAj
-Thriller 25 Super Deluxe Edition
+English
+A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.
+Starring Thomas Mitchell, Barbara O'Neil, Vivien Leigh, Evelyn Keyes
+The Rotten Tomatos rating is 92%
+Released in 1939
+The IMDB rating is: 8.1
+
+spotify-this-song----staying alive
+Bee Gees
+Stayin' Alive
+Staying Alive (Original Motion Picture Soundtrack)
+https://api.spotify.com/v1/tracks/4UDmDIqJIbrW0hMBQMFOsM
+
+concert-this----tuneyards
+Walt Disney Concert Hall
+Los Angeles
+01/31/2020
