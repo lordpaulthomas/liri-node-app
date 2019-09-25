@@ -49,9 +49,7 @@ https://nodejs.org/en/download/
 
 Required node_modules
 ---------------------
-```
-#### axios
-```
+``` axios ```
 ```
 ### dotenv
 ```
