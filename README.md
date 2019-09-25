@@ -50,23 +50,14 @@ https://nodejs.org/en/download/
 Required node_modules
 ---------------------
 ``` axios ```
-```
-### dotenv
-```
-```
-### express
-```
-```
-### inquirer
-```
-```
-### node-spotify-api
-```
 
-To run file
------------
-1. Navigate to liri-node-app
+``` dotenv ```
 
+``` express ```
+
+``` inquirer ```
+
+``` node-spotify-api ```
 
 Example Video
 -------------
