@@ -49,11 +49,21 @@ https://nodejs.org/en/download/
 
 Required node_modules
 ---------------------
-### axios
+```
+#### axios
+```
+```
 ### dotenv
+```
+```
 ### express
+```
+```
 ### inquirer
+```
+```
 ### node-spotify-api
+```
 
 To run file
 -----------
