@@ -30,7 +30,17 @@ package-lock.json
 package.json
 
 random.txt
+.:
+
 ```
 
-How to run file
+Description of LIRI
 -----------
+LIRI is a **_Language_ Interpretation and Recognition Interface**
+LIRI is a command line node app that will search:
+* Spotify for songs
+* Bands in Town for concerts
+* OMDB for movies
+
+Example Video
+-------------
