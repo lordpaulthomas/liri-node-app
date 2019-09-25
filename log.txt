@@ -1,0 +1,210 @@
+
+
+concert-this----Kati Perry
+
+concert-this----21 Pilots
+Amalie Arena
+10/09/2019
+Tampa
+State Farm Arena
+Atlanta
+10/12/2019
+Royal Farms Arena
+Baltimore
+10/15/2019
+Mohegan Sun Arena
+Uncasville
+10/17/2019
+Bryce Jordan Center
+10/18/2019
+Philadelphia
+University Park
+10/20/2019
+Wells Fargo Center
+Cincinnati
+10/22/2019
+Target Center
+Minneapolis
+U.S. Bank Arena
+10/24/2019
+Wells Fargo Arena
+Des Moines
+10/25/2019
+Pepsi Center
+Denver
+10/27/2019
+Vivint Smart Home Arena
+Salt Lake City
+10/28/2019
+MGM Grand Garden Arena
+Las Vegas
+10/30/2019
+Staples Center
+Los Angeles
+11/01/2019
+Anaheim
+Honda Center
+11/02/2019
+Golden 1 Center
+Sacramento
+11/03/2019
+10/11/2019
+San Diego
+11/05/2019
+Dickies Arena
+Fort Worth
+11/08/2019
+BOK Center
+Tulsa
+11/09/2019
+Bon Secours Wellness Arena
+Greenville
+Pechanga Arena San Diego
+
+movie-this----pulp fiction
+Pulp Fiction
+Produced in USA
+English, Spanish, French
+The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+Starring Tim Roth, Amanda Plummer, Laura Lovelace, John Travolta
+The IMDB rating is: 8.9
+The Rotten Tomatos rating is 92%
+Released in 1994
+
+movie-this----Mr+Nobody
+Mr. Nobody
+Produced in Belgium, Germany, Canada, France, USA, UK
+English, Mohawk
+A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Starring Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Released in 2009
+The Rotten Tomatos rating is 66%
+The IMDB rating is: 7.8
+
+spotify-this-song----Make It Better
+Anderson .Paak
+Make It Better (feat. Smokey Robinson)
+Ventura
+https://api.spotify.com/v1/tracks/4SBVWkRIMJ6WBCYPvr5Bwr
+
+movie-this----Mr+Nobody
+Mr. Nobody
+Released in 2009
+English, Mohawk
+A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Starring Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+The IMDB rating is: 7.8
+The Rotten Tomatos rating is 66%
+Produced in Belgium, Germany, Canada, France, USA, UK
+
+concert-this----Post Malone
+Xcel Energy Center
+09/26/2019
+09/27/2019
+Little Caesars Arena
+Detroit
+09/29/2019
+United Center
+Chicago
+10/01/2019
+Scotiabank Arena
+Toronto
+10/03/2019
+Scotiabank Arena
+Toronto
+10/04/2019
+KeyBank Center
+Buffalo
+10/06/2019
+TD Garden
+Boston
+10/08/2019
+TD Garden
+Boston
+10/09/2019
+Boardwalk Hall
+Atlantic City
+10/11/2019
+Capital One Arena
+Washington
+10/12/2019
+Madison Square Garden
+New York
+10/14/2019
+Madison Square Garden
+New York
+10/15/2019
+PNC Arena
+Raleigh
+10/17/2019
+State Farm Arena
+Atlanta
+10/18/2019
+AmericanAirlines Arena
+Miami
+10/20/2019
+BB&T
+Fort Lauderdale
+10/21/2019
+Amalie Arena
+Tampa
+10/24/2019
+VyStar Veterans Memorial Arena
+Jacksonville
+10/25/2019
+Voodoo Music + Arts Experience
+New Orleans
+10/27/2019
+AT&T Center
+San Antonio
+10/29/2019
+POSTY FEST
+Arlington
+11/02/2019
+Chesapeake Energy Arena
+Oklahoma City
+11/04/2019
+Toyota Center
+Houston
+11/05/2019
+St Paul
+Glendale
+11/08/2019
+Pepsi Center
+Denver
+11/10/2019
+Vivint Smart Home Arena
+Salt Lake City
+11/11/2019
+Oakland Arena
+Oakland
+11/14/2019
+Honda Center
+Anaheim
+11/16/2019
+Honda Center
+Anaheim
+11/17/2019
+The Forum
+Los Angeles
+11/20/2019
+The Forum
+Los Angeles
+11/21/2019
+Gila River Arena
+St Paul
+Xcel Energy Center
+
+concert-this----post malone
+
+movie-this----spaceballs
+Spaceballs
+Produced in USA
+English
+A rogue star pilot and his trusty sidekick must come to the rescue of a Princess and save the galaxy from a ruthless race of beings known as Spaceballs.
+Starring Mel Brooks, John Candy, Rick Moranis, Bill Pullman
+The IMDB rating is: 7.1
+The Rotten Tomatos rating is 59%
+Released in 1987
+
+concert-this----good charlotte
