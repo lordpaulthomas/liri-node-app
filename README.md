@@ -61,5 +61,6 @@ Required node_modules
 
 Link To Example Video
 ----------------------
+Click on the image below to go to video link!
 
-https://drive.google.com/file/d/1WBYhXNpiSGQLiVbXmuCwe-vCvJxS2ZNc/view
+[![LIRI Node App Example Video](./images/picture.png)](https://youtu.be/oOedaKffFas)

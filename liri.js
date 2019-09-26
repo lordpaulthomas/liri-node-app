@@ -85,6 +85,8 @@ inquirer
         })
     }
 
+    
+
     if (command === 'concert-this') {
       inquirer
         .prompt([
@@ -316,17 +318,6 @@ inquirer
                 if (err) {
                   return console.log(err)
                 }
-              })
-              inquirer.prompt([
-                {
-                  message: "Do another search?",
-                  type: "confirm",
-                  default: true
-                }
-              ]).then(function (answers) {
-                again = answers.confirm;
-              }).catch(function (err) {
-                console.log(err)
               })
             })
             .catch(function (err) {
