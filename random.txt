@@ -1,1 +1,1 @@
-movie-this,New Jack City,concert-this,Polyphia,spotify-this-song,"Satisfy my soul"
+spotify-this-song,"Satisfy my soul"

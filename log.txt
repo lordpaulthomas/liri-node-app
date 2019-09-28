@@ -1,53 +1,65 @@
 
 
-spotify-this-song----satisfy my soul
-Bob Marley & The Wailers
-https://api.spotify.com/v1/tracks/5Uv1YNz6uBepPLDdoFANKQ
-Kaya
-Satisfy My Soul
+Spotify----help
+Can't Help Falling in Love
+Blue Hawaii
+Elvis Presley
+https://api.spotify.com/v1/tracks/44AyOl4qVkzS48vBsbNXaC
 
-concert-this----primus
-Asheville
+Spotify----clear
+George Strait
+Blue Clear Sky
+Blue Clear Sky
+https://api.spotify.com/v1/tracks/59MIR30ATtW8kTaX3SCpq0
+
+Spotify----i believe i can fly
+R. Kelly
+I Believe I Can Fly
+R.
+https://api.spotify.com/v1/tracks/2RzJwBCXsS1VnjDm2jKKAa
+
+Concert This----primus
 U.S. Cellular Center Asheville
 11/02/2019
-PNC Arena
 Raleigh
 11/03/2019
 Salem Civic Center
-Salem
+Asheville
 11/05/2019
 Hershey
 11/06/2019
 MassMutual Center
 Springfield
-Giant Center
+11/08/2019
 Madison Square Garden
-11/09/2019
 New York
-KFC Yum! Center
-Louisville
+11/09/2019
+Giant Center
+Salem
 11/11/2019
 Nationwide Arena
 Columbus
 11/12/2019
+TaxSlayer Center
+PNC Arena
 11/14/2019
 Denny Sanford Premier Center
-TaxSlayer Center
-Moline
 Sioux Falls
 11/15/2019
-11/08/2019
-11/17/2019
-Omaha
 Fargodome
+Moline
+11/17/2019
+CHI Health Center Omaha
+Omaha
+11/18/2019
 Broadmoor World Arena
 Colorado Springs
-11/20/2019
+Fargo
 First Interstate MetraPark
 Billings
 11/22/2019
 The Wilma
-Missoula
+11/20/2019
 11/23/2019
 Spokane Arena
 Spokane
@@ -57,168 +69,146 @@ Oakland
 11/26/2019
 MGM Grand Garden Arena
 Las Vegas
+Louisville
+KFC Yum! Center
+Los Angeles
 11/27/2019
 The Forum
 Los Angeles
-11/29/2019
-The Forum
-Los Angeles
 11/30/2019
-11/18/2019
-CHI Health Center Omaha
-Fargo
+The Forum
+Missoula
+11/29/2019
 
-movie-this----house party
-House Party
-Produced in USA
+Movie This----fear and loathing
+Fear and Loathing in Las Vegas
+Released in 1998
 English
-Released in 1990
-Starring Christopher Reid, Robin Harris, Christopher Martin, Martin Lawrence
-Kid decides to go to his friend Play's house party, but neither of them can predict what's in store for them on what could be the wildest night of their lives.
-The Rotten Tomatos rating is 96%
-The IMDB rating is: 6.4
+An oddball journalist and his psychopathic lawyer travel to Las Vegas for a series of psychedelic escapades.
+Starring Johnny Depp, Benicio Del Toro, Tobey Maguire, Michael Lee Gogin
+The Rotten Tomatos rating is 49%
+The IMDB rating is: 7.6
+Produced in USA
 
-movie-this----Mr+Nobody
-Mr. Nobody
-Produced in Belgium, Germany, Canada, France, USA, UK
-English, Mohawk
-A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
-Starring Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
-Released in 2009
-The Rotten Tomatos rating is 66%
-The IMDB rating is: 7.8
+Spotify----the big bang
+Rock Mafia
+The Big Bang
+The Big Bang
+https://api.spotify.com/v1/tracks/0SGojwNP2zUrgDyeoBQxYO
 
-spotify-this-song----Make It Better
-Anderson .Paak
-Make It Better (feat. Smokey Robinson)
-Ventura
-https://api.spotify.com/v1/tracks/4SBVWkRIMJ6WBCYPvr5Bwr
+Spotify----let it be
+The Beatles
+https://api.spotify.com/v1/tracks/7iN1s7xHE4ifF5povM6A48
+Let It Be - Remastered 2009
+Let It Be (Remastered)
 
-concert-this----Post Malone
-Xcel Energy Center
-St Paul
-09/27/2019
-Little Caesars Arena
-Detroit
-09/29/2019
-United Center
-Chicago
-10/01/2019
-Scotiabank Arena
-Toronto
-10/03/2019
-Scotiabank Arena
-Toronto
-10/04/2019
-KeyBank Center
-Buffalo
-10/06/2019
-TD Garden
-Boston
-10/08/2019
-TD Garden
-Boston
-10/09/2019
-Boardwalk Hall
-Atlantic City
-10/11/2019
-Capital One Arena
-Washington
-10/12/2019
-Madison Square Garden
-New York
-10/14/2019
-Madison Square Garden
-New York
-10/15/2019
-PNC Arena
-Raleigh
-10/17/2019
-State Farm Arena
-Atlanta
-10/18/2019
-AmericanAirlines Arena
-Miami
-10/20/2019
-BB&T
-Fort Lauderdale
-10/21/2019
-Amalie Arena
-Tampa
-09/26/2019
-VyStar Veterans Memorial Arena
-Jacksonville
-10/25/2019
+Concert This----beck
+Tecate Live Out 2019
 Voodoo Music + Arts Experience
+10/26/2019
+Intersect
+Las Vegas
+12/06/2019
+New Orleans
+Monterrey
+10/19/2019
+
+Concert This----bring me the horizon
+Threesome Tour 
+Phoenix
+10/12/2019
+Threesome Tour 
+Portland
+10/14/2019
+Seattle
+Threesome Tour 
+10/16/2019
+Las Rageous 18-19
+Las Vegas
+10/18/2019
+Threesome Tour 
+San Diego
+Threesome Tour 
+Oklahoma City
+Sacramento
+10/19/2019
+Threesome Tour 
+10/21/2019
+Kansas City
+10/22/2019
+The Fillmore
+New Orleans
+10/10/2019
+San Antonio
+10/25/2019
+Voodoo Festival 27
+Threesome Tour 
+Aftershock Festival
+Threesome Tour 
+Tampa
+10/28/2019
+Threesome Tour 
+Miami Beach
+10/29/2019
+SHOW DC ARENA
+Huai Khwang
+11/13/2019
+Saitama Super Arena
+Saitama-shi
+Saitama Super Arena
+11/16/2019
+Saitama-shi
+Zepp OSAKA Bayside
+Osaka
+11/17/2019
+11/18/2019
+Osaka
+11/20/2019
+Osaka-Jo Hall
+Osaka-Jo Hall
+Osaka
+11/21/2019
+10/24/2019
 New Orleans
 10/27/2019
-AT&T Center
-San Antonio
-10/29/2019
-POSTY FEST
-Arlington
-11/02/2019
-Chesapeake Energy Arena
-Oklahoma City
-11/04/2019
-Toyota Center
-Houston
-11/05/2019
-Gila River Arena
-Glendale
-11/08/2019
-Pepsi Center
-Denver
-11/10/2019
-Vivint Smart Home Arena
-Salt Lake City
-11/11/2019
-Oakland Arena
-Oakland
-11/14/2019
-Honda Center
-Anaheim
-11/16/2019
-Honda Center
-Anaheim
-11/17/2019
-The Forum
-Los Angeles
-11/20/2019
-The Forum
-Los Angeles
-11/21/2019
-Xcel Energy Center
-St Paul
-10/24/2019
 
-movie-this----New Jack City
-Released in 1991
+Movie This----fear and loathing
+Fear and Loathing in Las Vegas
+The IMDB rating is: 7.6
+Released in 1998
+English
+An oddball journalist and his psychopathic lawyer travel to Las Vegas for a series of psychedelic escapades.
+The Rotten Tomatos rating is 49%
+Produced in USA
+Starring Johnny Depp, Benicio Del Toro, Tobey Maguire, Michael Lee Gogin
+
+Movie This ----New Jack City
 New Jack City
+The Rotten Tomatos rating is 77%
 English
 A crime lord ascends to power and becomes megalomaniacal while a maverick police detective vows to stop him.
 Starring Wesley Snipes, Ice-T, Allen Payne, Chris Rock
 The IMDB rating is: 6.7
-The Rotten Tomatos rating is 77%
 Produced in USA
+Released in 1991
 
-concert-this----Polyphia
+Concert This ----Polyphia
 Polyphia
-Osaka
+渋谷区
 10/07/2019
 Diamond Ballroom
 Oklahoma City
+11/07/2019
 Aztec Theatre
 San Antonio
 11/08/2019
 House of Blues Houston
 Houston
-11/07/2019
 11/09/2019
 House of Blues Dallas
 Dallas
-Sunshine Theater
 11/10/2019
+Sunshine Theater
 Albuquerque
 11/12/2019
 The Pressroom
@@ -233,14 +223,14 @@ San Diego
 Ace Of Spades
 Sacramento
 11/16/2019
+The Regency Ballroom
 San Francisco
 11/17/2019
 McMenamins Crystal Ballroom
 Portland
 11/18/2019
-Seattle
-The Regency Ballroom
 The Showbox
+Seattle
 11/19/2019
 Revolution Concert House
 Garden City
@@ -248,47 +238,47 @@ Garden City
 The Depot
 Salt Lake City
 11/22/2019
-Denver
 Summit
+Denver
 11/23/2019
 The Granada
-11/25/2019
 Lawrence
+11/25/2019
 Wooly's
 Des Moines
 11/26/2019
-Minneapolis
 Varsity Theater
+Minneapolis
 11/27/2019
-LIQUID ROOM
-渋谷区
+House of Blues Cleveland
+Cleveland
 11/29/2019
 Elevation @ the Intersection
 Grand Rapids
 11/30/2019
-House of Blues Chicago
+LIQUID ROOM
 Chicago
 12/01/2019
 Saint Andrew’s Hall
-Detroit
+10/05/2019
 12/02/2019
 The Opera House
 Toronto
 12/03/2019
 Gramercy Theatre
 New York
-Worcester
-Palladium
 12/06/2019
-12/07/2019
-Theatre of Living Arts
+Palladium
+Worcester
+Detroit
+House of Blues Chicago
 Philadelphia
-10/05/2019
-Gramercy Theatre
-New York
+12/08/2019
+Theatre of Living Arts
+Osaka
 12/09/2019
-House of Blues Cleveland
-Cleveland
+Toad's Place
+New Haven
 12/10/2019
 Reverb
 Reading
@@ -297,301 +287,20 @@ Baltimore Soundstage
 Baltimore
 12/12/2019
 The Underground
-Toad's Place
+Charlotte
 12/13/2019
 Buckhead Theatre
 12/14/2019
-House of Blues Orlando
-Lake Buena Vista
 Atlanta
-12/08/2019
-New Haven
-Charlotte
+New York
+Lake Buena Vista
+Gramercy Theatre
+12/07/2019
+House of Blues Orlando
 12/15/2019
 
-spotify-this-song----heart breaker
-Kiddo Marv
-Heart Breaker (feat. Tokyo Jetz)
-Kingz In Denial Don't Overcome II
-https://api.spotify.com/v1/tracks/12yekMoWG3hGZzO75KISn2
-
-Spotify----Make It Better
-Anderson .Paak
-Make It Better (feat. Smokey Robinson)
-Ventura
-https://api.spotify.com/v1/tracks/4SBVWkRIMJ6WBCYPvr5Bwr
-
-Spotify----little things
-One Direction
-Little Things
-Take Me Home: Yearbook Edition
-https://api.spotify.com/v1/tracks/7kSLdGdXLey7pzLsWpdg1h
-
-Spotify----living la vida loca
-Chify Jay
-Go Gaga (Living la Vida Loca)
-Go Gaga (Living la Vida Loca)
-https://api.spotify.com/v1/tracks/6hTxJgaBOR6ntKFfgPk2Qj
-
-Spotify----motivation proclimation
-
-Spotify----first
-Tee Grizzley
-My Moment
-First Day Out
-https://api.spotify.com/v1/tracks/3muBQDekYAg7jm6hDu6R0Z
-
-Spotify----all you need is love
-All You Need Is Love - Remastered 2009
-The Beatles
-Magical Mystery Tour (Remastered)
-https://api.spotify.com/v1/tracks/68BTFws92cRztMS1oQ7Ewj
-
-Spotify----rebel just for kicks
-
-Spotify----love
-Lizzo
-Cuz I Love You (Deluxe)
-https://api.spotify.com/v1/tracks/5qmq61DAAOUaW8AUo8xKhh
-Truth Hurts
-
-Spotify----Make It Better
-Anderson .Paak
-https://api.spotify.com/v1/tracks/4SBVWkRIMJ6WBCYPvr5Bwr
-Ventura
-Make It Better (feat. Smokey Robinson)
-
-Spotify----jf
-JF
-https://api.spotify.com/v1/tracks/764k0MFQi5JyIGNFKo3c1x
-Run This Game
-Run This Game
-
-Spotify----firsdf
-
-Spotify----la;dsfkj
-
-Spotify----kjfas
-
-Spotify----lksjf
-
-Spotify----asdf
-David Quinn
-ASDF - Original Mix
-New Blood Of Bass, Vol. 4
-https://api.spotify.com/v1/tracks/1GkhxYsJvsrvE4dNkzvIC6
-
-Spotify----lkjadf
-
-Spotify----Make It Better
-Anderson .Paak
-Make It Better (feat. Smokey Robinson)
-Ventura
-https://api.spotify.com/v1/tracks/4SBVWkRIMJ6WBCYPvr5Bwr
-
-Spotify----ljdf
-
-Spotify----jlsf
-
-Spotify----fish face
-
-Spotify----Make It Better
-
-Spotify----fjfjd
-
-Spotify----fish
-
-Spotify----freedom
-Akon
-https://api.spotify.com/v1/tracks/1ARJhjuI6TNYZCxYygFQ4F
-Freedom
-Right Now (Na Na Na)
-
-Spotify----nnn
-NNN
-https://api.spotify.com/v1/tracks/69y6KaabRHXtN4RS0SL5EE
-Is Everything Alright at Home?
-Scumhole Ripper
-
-Spotify----laf;sdj
-
-Spotify----;lakdjsf
-
-Spotify----freedom
-
-Spotify----freedom
-Akon
-Right Now (Na Na Na)
-Freedom
-https://api.spotify.com/v1/tracks/1ARJhjuI6TNYZCxYygFQ4F
-
-Spotify----fadslfkj
-
-Spotify----kjfa
-
-Spotify----freedom
-
-Spotify----freedom
-Anderson .Paak
-Make It Better (feat. Smokey Robinson)
-Ventura
-https://api.spotify.com/v1/tracks/4SBVWkRIMJ6WBCYPvr5Bwr
-
-Spotify----a;lkdjsf
-
-Spotify----freedom
-Akon
-Right Now (Na Na Na)
-Freedom
-https://api.spotify.com/v1/tracks/1ARJhjuI6TNYZCxYygFQ4F
-
-Spotify----a;lksdf
-
-Spotify----lkajsfd
-
-Spotify----;alksjdf
-
-Spotify----freedom
-
-Spotify----freedom
-Akon
-Right Now (Na Na Na)
-Freedom
-https://api.spotify.com/v1/tracks/1ARJhjuI6TNYZCxYygFQ4F
-
-Spotify----beck
-Tecate Live Out 2019
-Monterrey
-10/26/2019
-Voodoo Music + Arts Experience
-Las Vegas
-New Orleans
-10/19/2019
-Intersect
-12/06/2019
-
-Spotify----freedom
-Akon
-Right Now (Na Na Na)
-Freedom
-https://api.spotify.com/v1/tracks/1ARJhjuI6TNYZCxYygFQ4F
-
-Spotify----fire
-Sam Smith
-Fire On Fire - From "Watership Down"
-Fire On Fire (From "Watership Down")
-https://api.spotify.com/v1/tracks/5rFj8OzffT0iggSjcBaeND
-
-Spotify----lasjfd
-
-Spotify----freedom
-Akon
-https://api.spotify.com/v1/tracks/1ARJhjuI6TNYZCxYygFQ4F
-Freedom
-Right Now (Na Na Na)
-
-Spotify----freedom
-Akon
-Right Now (Na Na Na)
-Freedom
-https://api.spotify.com/v1/tracks/1ARJhjuI6TNYZCxYygFQ4F
-
-Spotify----freedom
-Akon
-Right Now (Na Na Na)
-Freedom
-https://api.spotify.com/v1/tracks/1ARJhjuI6TNYZCxYygFQ4F
-
-Spotify----primus
-U.S. Cellular Center Asheville
-Asheville
-11/03/2019
-Salem Civic Center
-Salem
-11/05/2019
-Giant Center
-Hershey
-11/06/2019
-MassMutual Center
-Springfield
-11/08/2019
-Madison Square Garden
-New York
-11/09/2019
-KFC Yum! Center
-Louisville
-11/11/2019
-Nationwide Arena
-Columbus
-11/12/2019
-TaxSlayer Center
-Moline
-11/14/2019
-Denny Sanford Premier Center
-Sioux Falls
-11/15/2019
-Fargodome
-Fargo
-11/17/2019
-CHI Health Center Omaha
-Omaha
-11/18/2019
-Broadmoor World Arena
-Colorado Springs
-11/20/2019
-First Interstate MetraPark
-Billings
-11/22/2019
-The Wilma
-Missoula
-11/23/2019
-Spokane Arena
-Spokane
-11/24/2019
-Oakland Arena
-Oakland
-11/26/2019
-MGM Grand Garden Arena
-Las Vegas
-11/27/2019
-The Forum
-Los Angeles
-11/29/2019
-The Forum
-Los Angeles
-11/30/2019
-PNC Arena
-Raleigh
-11/02/2019
-
-Spotify----Mr+Nobody
-Mr. Nobody
-The Rotten Tomatos rating is 66%
-English, Mohawk
-A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
-Starring Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
-The IMDB rating is: 7.8
-Produced in Belgium, Germany, Canada, France, USA, UK
-Released in 2009
-
-movie-this----New Jack City
-New Jack City
-Produced in USA
-English
-The IMDB rating is: 6.7
-Starring Wesley Snipes, Ice-T, Allen Payne, Chris Rock
-Released in 1991
-The Rotten Tomatos rating is 77%
-A crime lord ascends to power and becomes megalomaniacal while a maverick police detective vows to stop him.
-
-spotify-this-song----"Satisfy my soul"
+Spotify This ----"Satisfy my soul"
 Bob Marley & The Wailers
 Satisfy My Soul
 Kaya
 https://api.spotify.com/v1/tracks/5Uv1YNz6uBepPLDdoFANKQ
-
-Spotify----freedom
-Akon
-Freedom
-Right Now (Na Na Na)
-https://api.spotify.com/v1/tracks/1ARJhjuI6TNYZCxYygFQ4F

@@ -43,7 +43,7 @@ mainMenu();
 
 
 function spotify() {
-  command = "Spotify"
+  let command = "Spotify"
   inquirer
     .prompt([
       {
@@ -77,7 +77,83 @@ function spotify() {
     })
 }
 
+const searchSpotify = (search) => {
+
+  var spotify = new Spotify(keys.spotify)
+  spotify
+    // call to spotify with user search info
+    .search({ type: 'track', query: search })
+    .then(function (response) {
+      if (!response) {
+        inquirer
+          .prompt([{
+            type: "confirm",
+            message: "No songs by that name, try again?",
+            name: "confirm",
+            default: false
+          }])
+          .then(function (response) {
+            if (response.confirm) {
+              mainMenu()
+            }
+            else {
+              return console.log('See you next time')
+            }
+          })
+      }
+      else {
+        console.log(response.tracks.items[0].artists[0].name);
+        fs.appendFile("log.txt", '\n' + response.tracks.items[0].artists[0].name, function (err) {
+          if (err) {
+            return console.log(err)
+          }
+        })
+        console.log(response.tracks.items[0].name);
+        fs.appendFile("log.txt", '\n' + response.tracks.items[0].name, function (err) {
+          if (err) {
+            return console.log(err)
+          }
+        })
+        console.log(response.tracks.items[0].album.name);
+        fs.appendFile("log.txt", '\n' + response.tracks.items[0].album.name, function (err) {
+          if (err) {
+            return console.log(err)
+          }
+        })
+        console.log(response.tracks.items[0].href);
+        fs.appendFile("log.txt", '\n' + response.tracks.items[0].href, function (err) {
+          if (err) {
+            return console.log(err)
+          }
+        })
+        inquirer
+          .prompt([
+            {
+              type: "confirm",
+              message: "Would you like to start another search?",
+              name: "confirm",
+              default: false
+            }
+          ]).then(function (response) {
+            if (response.confirm) {
+              mainMenu()
+            }
+            else {
+              console.log('See you next time!')
+            }
+          }).catch(err => {
+              return console.log(err)
+          })
+      }
+    })
+    .catch(function (err) {
+      console.log(err);
+    },
+    );
+}
+
 function concertThis() {
+  let command = 'Concert This'
   inquirer
     .prompt([
       {
@@ -166,6 +242,7 @@ function concertThis() {
 }
 
 function movieThis() {
+  let command = 'Movie This'
   inquirer
     .prompt([
       {
@@ -294,7 +371,7 @@ function movieThis() {
 };
 
 function doWhat() {
-
+  let command = 'Do what it says'
   fs.readFile("random.txt", "utf8", function (err, data) {
     if (err) {
       return console.log(err)
@@ -302,19 +379,20 @@ function doWhat() {
     var dataArray = data.split(',');
     command = dataArray[0]
     search = dataArray[1]
-
+    
+    
     if (command === 'spotify-this-song') {
       // if user leaves input empty, this will show 
       if (!search) {
         search = "Make It Better"
       }
       // append search results to log.txt
-      fs.appendFile("log.txt", "\n\n" + command + '----' + search, function (err) {
+      fs.appendFile("log.txt", "\n\n" + 'Spotify This ' + '----' + search, function (err) {
         if (err) {
           return console.log(err)
         }
       })
-      console.log(command + '----' + search)
+      console.log("Spotifiy This " + '----' + search)
       // create new search object using keys not pushed to github
       var spotify = new Spotify(keys.spotify)
       spotify
@@ -375,12 +453,12 @@ function doWhat() {
         search = "Post Malone"
       }
 
-      fs.appendFile("log.txt", "\n\n" + command + '----' + search, function (err) {
+      fs.appendFile("log.txt", "\n\n" + 'Concert This ' + '----' + search, function (err) {
         if (err) {
           return console.log(err)
         }
       })
-      console.log(command + '----' + search)
+      console.log("Concert This" + '----' + search)
       queryUrl = 'https://rest.bandsintown.com/artists/' + search + '/events?app_id=codingbootcamp'
 
       axios.get(queryUrl).then(function (response) {
@@ -449,12 +527,12 @@ function doWhat() {
       if (!search) {
         search = "Mr+Nobody"
       }
-      fs.appendFile("log.txt", "\n\n" + command + '----' + search, function (err) {
+      fs.appendFile("log.txt", "\n\n" + "Movie This " + '----' + search, function (err) {
         if (err) {
           return console.log(err)
         }
       })
-      console.log(command + '----' + search)
+      console.log("Movie This" + '----' + search)
       total = 0
       for (let i = 0; i < search.length; i++) {
         if (search[i] === ' ') {
@@ -560,77 +638,3 @@ function doWhat() {
 }
 
 
-const searchSpotify = (search) => {
-
-  var spotify = new Spotify(keys.spotify)
-  spotify
-    // call to spotify with user search info
-    .search({ type: 'track', query: search })
-    .then(function (response) {
-      if (!response) {
-        inquirer
-          .prompt([{
-            type: "confirm",
-            message: "No songs by that name, try again?",
-            name: "confirm",
-            default: false
-          }])
-          .then(function (response) {
-            if (response.confirm) {
-              mainMenu()
-            }
-            else {
-              return console.log('See you next time')
-            }
-          })
-      }
-      else {
-        console.log(response.tracks.items[0].artists[0].name);
-        fs.appendFile("log.txt", '\n' + response.tracks.items[0].artists[0].name, function (err) {
-          if (err) {
-            return console.log(err)
-          }
-        })
-        console.log(response.tracks.items[0].name);
-        fs.appendFile("log.txt", '\n' + response.tracks.items[0].name, function (err) {
-          if (err) {
-            return console.log(err)
-          }
-        })
-        console.log(response.tracks.items[0].album.name);
-        fs.appendFile("log.txt", '\n' + response.tracks.items[0].album.name, function (err) {
-          if (err) {
-            return console.log(err)
-          }
-        })
-        console.log(response.tracks.items[0].href);
-        fs.appendFile("log.txt", '\n' + response.tracks.items[0].href, function (err) {
-          if (err) {
-            return console.log(err)
-          }
-        })
-        inquirer
-          .prompt([
-            {
-              type: "confirm",
-              message: "Would you like to start another search?",
-              name: "confirm",
-              default: false
-            }
-          ]).then(function (response) {
-            if (response.confirm) {
-              mainMenu()
-            }
-            else {
-              console.log('See you next time!')
-            }
-          }).catch(err => {
-              return console.log(err)
-          })
-      }
-    })
-    .catch(function (err) {
-      console.log(err);
-    },
-    );
-}

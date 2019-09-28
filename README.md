@@ -63,4 +63,4 @@ Link To Example Video
 ----------------------
 Click on the image below to go to video link!
 
-[![LIRI Node App Example Video](./images/picture.png)](https://youtu.be/oOedaKffFas)
+[![LIRI Node App Example Video](./images/picture.png)](https://drive.google.com/file/d/1FYIqInarP1-wBoOGF9x3O88WpQcXgg5B/view)
