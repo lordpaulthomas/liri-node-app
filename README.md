@@ -59,8 +59,11 @@ Required node_modules
 
 ``` node-spotify-api ```
 
-Link To Example Video
+Example Video GIF
 ----------------------
-Click on the image below to go to video link!
 
+<img src="https://media.giphy.com/media/QtjrwGOR53DQqgBJHz/giphy.gif" width="500" height="500" />
+
+Click image below to go to Full Example Video
+----------------------
 [![LIRI Node App Example Video](./images/picture.png)](https://drive.google.com/file/d/1FYIqInarP1-wBoOGF9x3O88WpQcXgg5B/view)

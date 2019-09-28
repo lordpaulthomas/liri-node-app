@@ -177,7 +177,7 @@ function concertThis() {
       })
       console.log(command + '----' + search)
       // query for bands in town in proper format
-      queryUrl = 'https://rest.bandsintown.com/artists/' + search + '/events?app_id=codingbootcamp'
+      queryUrl = 'https://rest.bandsintown.com/artists/' + search + '/events?app_id=anyplaceholderwilldo'
 
       axios.get(queryUrl).then(function (response) {
         for (let i = 0; i < response.data.length; i++) {

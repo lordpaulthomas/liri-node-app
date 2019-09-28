@@ -1,186 +1,46 @@
 
 
-Spotify----help
-Can't Help Falling in Love
-Blue Hawaii
-Elvis Presley
-https://api.spotify.com/v1/tracks/44AyOl4qVkzS48vBsbNXaC
-
-Spotify----clear
-George Strait
-Blue Clear Sky
-Blue Clear Sky
-https://api.spotify.com/v1/tracks/59MIR30ATtW8kTaX3SCpq0
-
-Spotify----i believe i can fly
-R. Kelly
-I Believe I Can Fly
-R.
-https://api.spotify.com/v1/tracks/2RzJwBCXsS1VnjDm2jKKAa
-
-Concert This----primus
-U.S. Cellular Center Asheville
-11/02/2019
-Raleigh
-11/03/2019
-Salem Civic Center
-Asheville
-11/05/2019
-Hershey
-11/06/2019
-MassMutual Center
-Springfield
-11/08/2019
-Madison Square Garden
-New York
-11/09/2019
-Giant Center
-Salem
-11/11/2019
-Nationwide Arena
-Columbus
-11/12/2019
-TaxSlayer Center
-PNC Arena
-11/14/2019
-Denny Sanford Premier Center
-Sioux Falls
-11/15/2019
-Fargodome
-Moline
-11/17/2019
-CHI Health Center Omaha
-Omaha
-11/18/2019
-Broadmoor World Arena
-Colorado Springs
-Fargo
-First Interstate MetraPark
-Billings
-11/22/2019
-The Wilma
-11/20/2019
-11/23/2019
-Spokane Arena
-Spokane
-11/24/2019
-Oakland Arena
-Oakland
-11/26/2019
-MGM Grand Garden Arena
-Las Vegas
-Louisville
-KFC Yum! Center
-Los Angeles
-11/27/2019
-The Forum
-Los Angeles
-11/30/2019
-The Forum
-Missoula
-11/29/2019
-
-Movie This----fear and loathing
-Fear and Loathing in Las Vegas
-Released in 1998
-English
-An oddball journalist and his psychopathic lawyer travel to Las Vegas for a series of psychedelic escapades.
-Starring Johnny Depp, Benicio Del Toro, Tobey Maguire, Michael Lee Gogin
-The Rotten Tomatos rating is 49%
-The IMDB rating is: 7.6
-Produced in USA
-
-Spotify----the big bang
-Rock Mafia
-The Big Bang
-The Big Bang
-https://api.spotify.com/v1/tracks/0SGojwNP2zUrgDyeoBQxYO
-
 Spotify----let it be
 The Beatles
-https://api.spotify.com/v1/tracks/7iN1s7xHE4ifF5povM6A48
 Let It Be - Remastered 2009
 Let It Be (Remastered)
+https://api.spotify.com/v1/tracks/7iN1s7xHE4ifF5povM6A48
 
-Concert This----beck
-Tecate Live Out 2019
-Voodoo Music + Arts Experience
-10/26/2019
-Intersect
-Las Vegas
-12/06/2019
-New Orleans
-Monterrey
-10/19/2019
-
-Concert This----bring me the horizon
-Threesome Tour 
-Phoenix
-10/12/2019
-Threesome Tour 
-Portland
-10/14/2019
-Seattle
-Threesome Tour 
-10/16/2019
-Las Rageous 18-19
-Las Vegas
-10/18/2019
-Threesome Tour 
-San Diego
-Threesome Tour 
-Oklahoma City
-Sacramento
-10/19/2019
-Threesome Tour 
-10/21/2019
-Kansas City
-10/22/2019
-The Fillmore
-New Orleans
-10/10/2019
-San Antonio
-10/25/2019
-Voodoo Festival 27
-Threesome Tour 
-Aftershock Festival
-Threesome Tour 
-Tampa
-10/28/2019
-Threesome Tour 
-Miami Beach
-10/29/2019
-SHOW DC ARENA
-Huai Khwang
-11/13/2019
-Saitama Super Arena
-Saitama-shi
-Saitama Super Arena
-11/16/2019
-Saitama-shi
-Zepp OSAKA Bayside
-Osaka
-11/17/2019
-11/18/2019
-Osaka
-11/20/2019
-Osaka-Jo Hall
-Osaka-Jo Hall
-Osaka
-11/21/2019
-10/24/2019
-New Orleans
-10/27/2019
+Concert This----all time low
+Fonda Theatre
+Los Angeles
+12/16/2019
+Fonda Theatre
+Los Angeles
+12/17/2019
+Chicago
+House of Blues Chicago
+12/21/2019
+House of Blues Chicago
+Chicago
+12/22/2019
+Starland Ballroom
+Sayreville
+12/27/2019
+Starland Ballroom
+Sayreville
+12/28/2019
+Starland Ballroom
+Sayreville
+12/29/2019
+House of Blues Chicago
+12/20/2019
+Chicago
 
 Movie This----fear and loathing
 Fear and Loathing in Las Vegas
-The IMDB rating is: 7.6
-Released in 1998
+The Rotten Tomatos rating is 49%
 English
 An oddball journalist and his psychopathic lawyer travel to Las Vegas for a series of psychedelic escapades.
-The Rotten Tomatos rating is 49%
-Produced in USA
 Starring Johnny Depp, Benicio Del Toro, Tobey Maguire, Michael Lee Gogin
+The IMDB rating is: 7.6
+Produced in USA
+Released in 1998
 
 Movie This ----New Jack City
 New Jack City
@@ -188,13 +48,13 @@ The Rotten Tomatos rating is 77%
 English
 A crime lord ascends to power and becomes megalomaniacal while a maverick police detective vows to stop him.
 Starring Wesley Snipes, Ice-T, Allen Payne, Chris Rock
-The IMDB rating is: 6.7
 Produced in USA
 Released in 1991
+The IMDB rating is: 6.7
 
 Concert This ----Polyphia
 Polyphia
-渋谷区
+Osaka
 10/07/2019
 Diamond Ballroom
 Oklahoma City
@@ -225,10 +85,10 @@ Sacramento
 11/16/2019
 The Regency Ballroom
 San Francisco
-11/17/2019
+渋谷区
 McMenamins Crystal Ballroom
 Portland
-11/18/2019
+11/17/2019
 The Showbox
 Seattle
 11/19/2019
@@ -242,12 +102,12 @@ Summit
 Denver
 11/23/2019
 The Granada
-Lawrence
+10/05/2019
 11/25/2019
 Wooly's
 Des Moines
 11/26/2019
-Varsity Theater
+11/18/2019
 Minneapolis
 11/27/2019
 House of Blues Cleveland
@@ -256,29 +116,29 @@ Cleveland
 Elevation @ the Intersection
 Grand Rapids
 11/30/2019
-LIQUID ROOM
+House of Blues Chicago
 Chicago
 12/01/2019
 Saint Andrew’s Hall
-10/05/2019
+Detroit
 12/02/2019
 The Opera House
-Toronto
-12/03/2019
+Lawrence
+LIQUID ROOM
 Gramercy Theatre
-New York
+Varsity Theater
 12/06/2019
 Palladium
 Worcester
-Detroit
-House of Blues Chicago
-Philadelphia
-12/08/2019
+12/07/2019
 Theatre of Living Arts
-Osaka
+Toronto
+12/08/2019
+Philadelphia
+New York
 12/09/2019
 Toad's Place
-New Haven
+New York
 12/10/2019
 Reverb
 Reading
@@ -290,14 +150,14 @@ The Underground
 Charlotte
 12/13/2019
 Buckhead Theatre
-12/14/2019
 Atlanta
-New York
-Lake Buena Vista
 Gramercy Theatre
-12/07/2019
 House of Blues Orlando
+Lake Buena Vista
 12/15/2019
+12/03/2019
+New Haven
+12/14/2019
 
 Spotify This ----"Satisfy my soul"
 Bob Marley & The Wailers
